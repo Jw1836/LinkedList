@@ -1,0 +1,585 @@
+insertHead so,
+size 1
+printList
+  so,
+insertHead `my
+insertTail ```````and
+insertHead ```of
+insertAfter `all so,
+insertHead ``Annabel
+insertAfter me, ``Annabel
+remove so,
+insertAfter So ``Annabel
+insertAfter men me,
+insertAfter killing ```of
+insertHead kingdom
+insertAfter ``````was `my
+size 11
+printList
+  kingdom ``Annabel So me, men ```of killing `my ``````was `all ```````and
+insertAfter `kingdom kingdom
+insertAfter it `my
+insertHead By
+insertTail ``````her
+insertAfter eyes ``````was
+insertTail `````````````````````````the
+insertAfter other kingdom
+insertAfter from So
+remove `my
+insertAfter `she other
+insertAfter sea) men
+insertAfter ``in ``````was
+remove men
+insertTail `````````````````````````the
+insertAfter reason `kingdom
+size 21
+printList
+  By kingdom other `she `kingdom reason ``Annabel So from me, sea) ```of killing it ``````was ``in eyes `all ```````and ``````her `````````````````````````the
+insertAfter love— `kingdom
+insertAfter so, eyes
+insertAfter older ``````was
+insertTail `sea.
+remove `kingdom
+insertAfter `````````````````the ``in
+remove from
+insertHead ```````and
+insertAfter `came sea)
+insertAfter 1849 By
+insertAfter `````And eyes
+insertAfter But `she
+insertAfter `In `she
+insertAfter ```love killing
+insertAfter ``a kingdom
+remove love—
+insertAfter bringing `````````````````the
+size 31
+printList
+  By 1849 kingdom ``a other `she `In But reason ``Annabel So me, sea) `came ```of killing ```love it ``````was older ``in `````````````````the bringing eyes `````And so, `all ```````and ``````her `````````````````````````the `sea.
+insertAfter with ``a
+remove bringing
+size 31
+printList
+  By 1849 kingdom ``a with other `she `In But reason ``Annabel So me, sea) `came ```of killing ```love it ``````was older ``in `````````````````the eyes `````And so, `all ```````and ``````her `````````````````````````the `sea.
+insertAfter up me,
+insertAfter ````the But
+remove `In
+insertAfter ```this reason
+insertAfter `I But
+insertAfter `ago, reason
+insertAfter sea. up
+insertAfter half sea.
+insertAfter ``and other
+remove `````````````````````````the
+insertAfter ```I `all
+insertAfter far ``````was
+insertTail By
+insertAfter stronger ``````was
+insertAfter `Annabel `I
+size 41
+printList
+  By 1849 kingdom ``a with other ``and `she But `I `Annabel ````the reason `ago, ```this ``Annabel So me, up sea. half sea) `came ```of killing ```love it ``````was stronger far older ``in `````````````````the eyes `````And so, `all ```I ```````and ``````her `sea.
+insertAfter ``sea, ```this
+insertAfter child, `she
+insertAfter many 1849
+remove But
+insertAfter moon `````````````````the
+insertAfter by kingdom
+insertAfter That by
+insertAfter angels, sea.
+insertAfter ```the `Annabel
+insertAfter soul ``in
+insertAfter My ``sea,
+insertAfter this ``a
+size 51
+printList
+  By 1849 many kingdom by That ``a this with other ``and `she child, `I `Annabel ```the ````the reason `ago, ```this ``sea, My ``Annabel So me, up sea. angels, half sea) `came ```of killing ```love it ``````was stronger far older ``in soul `````````````````the moon eyes `````And so, `all ```I ```````and ``````her `sea.
+insertAfter ``Lee; soul
+insertAfter Lee— `Annabel
+insertAfter `many many
+insertAfter `down ```I
+insertAfter who far
+insertAfter away So
+remove so,
+insertAfter so, `````And
+insertAfter ````Of eyes
+insertAfter ```````````````the soul
+insertAfter ``that So
+insertAfter sounding ``````her
+size 61
+printList
+  By 1849 many `many kingdom by That ``a this with other ``and `she child, `I `Annabel Lee— ```the ````the reason `ago, ```this ``sea, My ``Annabel So ``that away me, up sea. angels, half sea) `came ```of killing ```love it ``````was stronger far who older ``in soul ```````````````the ``Lee; `````````````````the moon eyes ````Of `````And so, `all ```I `down ```````and ``````her sounding `sea.
+insertAfter ```````````the far
+insertAfter dissever ``in
+insertAfter wiser older
+insertAfter `of ```the
+insertAfter It 1849
+remove ```the
+insertAfter were who
+insertAfter `````by half
+insertAfter `far older
+insertAfter sea, by
+insertAfter ````````````````the ```````````````the
+insertAfter know ``a
+size 71
+printList
+  By 1849 It many `many kingdom by sea, That ``a know this with other ``and `she child, `I `Annabel Lee— `of ````the reason `ago, ```this ``sea, My ``Annabel So ``that away me, up sea. angels, half `````by sea) `came ```of killing ```love it ``````was stronger far ```````````the who were older `far wiser ``in dissever soul ```````````````the ````````````````the ``Lee; `````````````````the moon eyes ````Of `````And so, `all ```I `down ```````and ``````her sounding `sea.
+insertAfter ````Annabel ````````````````the
+remove so,
+insertAfter this `never
+size 71
+printList
+  By 1849 It many `many kingdom by sea, That ``a know this with other ``and `she child, `I `Annabel Lee— `of ````the reason `ago, ```this ``sea, My ``Annabel So ``that away me, up sea. angels, half `````by sea) `came ```of killing ```love it ``````was stronger far ```````````the who were older `far wiser ``in dissever soul ```````````````the ````````````````the ````Annabel ``Lee; `````````````````the moon eyes ````Of `````And `all ```I `down ```````and ``````her sounding `sea.
+insertAfter `But killing
+insertAfter not angels,
+insertAfter `beautiful ````````````````the
+insertAfter ```````````````````````the `down
+insertAfter who we
+insertAfter Lee; know
+insertAfter stars moon
+insertAfter cloud, ``sea,
+insertAfter there ``a
+remove ```love
+insertAfter `````````the sea)
+insertAfter ````by up
+insertAfter neither wiser
+size 81
+printList
+  By 1849 It many `many kingdom by sea, That ``a there know Lee; this with other ``and `she child, `I `Annabel Lee— `of ````the reason `ago, ```this ``sea, cloud, My ``Annabel So ``that away me, up ````by sea. angels, not half `````by sea) `````````the `came ```of killing `But it ``````was stronger far ```````````the who were older `far wiser neither ``in dissever soul ```````````````the ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon stars eyes ````Of `````And `all ```I `down ```````````````````````the ```````and ``````her sounding `sea.
+insertAfter ````Lee; ````Of
+insertHead ````````````````the
+insertAfter `reason half
+insertAfter beautiful My
+insertAfter ``that never
+insertAfter ```````````````````the moon
+insertAfter ```````a ``sea,
+insertAfter be other
+insertAfter ````````````the neither
+insertAfter sepulchre up
+insertAfter ````````by `down
+insertAfter ```a be
+size 91
+printList
+  By 1849 It many `many kingdom by sea, That ``a there know Lee; this with other be ```a ``and `she child, `I `Annabel Lee— `of ````the reason `ago, ```this ``sea, ```````a cloud, My beautiful ``Annabel So ``that away me, up sepulchre ````by sea. angels, not half `reason `````by sea) `````````the `came ```of killing `But it ``````was stronger far ```````````the who were older `far wiser neither ````````````the ``in dissever soul ```````````````the ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon ```````````````````the stars eyes ````Of ````Lee; `````And `all ```I `down ````````by ```````````````````````the ```````and ``````her sounding `sea.
+insertAfter highborn ``that
+insertAfter more child,
+insertAfter men `reason
+insertAfter With Lee—
+insertAfter Chilling ```of
+insertAfter life ```````````````````````the
+remove up
+insertAfter `````````````````````the ````Of
+insertAfter ``````````````````````the `all
+insertAfter ``kingdom ```this
+insertHead ``and
+insertAfter ``````````by ``````her
+insertAfter ``than older
+size 101
+printList
+  By 1849 It many `many kingdom by sea, That ``a there know Lee; this with other be ```a ``and `she child, more `I `Annabel Lee— With `of ````the reason `ago, ```this ``kingdom ``sea, ```````a cloud, My beautiful ``Annabel So ``that highborn away me, sepulchre ````by sea. angels, not half `reason men `````by sea) `````````the `came ```of Chilling killing `But it ``````was stronger far ```````````the who were older ``than `far wiser neither ````````````the ``in dissever soul ```````````````the ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And `all ``````````````````````the ```I `down ````````by ```````````````````````the life ```````and ``````her ``````````by sounding `sea.
+insertAfter ````````````````````````the ```````and
+insertAfter down ``in
+remove other
+insertAfter maiden ``a
+insertAfter ``Of ```````````````the
+insertAfter blew ``sea,
+insertAfter ````````a me,
+remove ``than
+insertAfter `````the ``kingdom
+insertAfter Coveted `of
+insertAfter never moon
+insertAfter beams, never
+insertAfter demons ``in
+insertAfter Edgar By
+remove who
+insertAfter ```love `But
+size 111
+printList
+  By Edgar 1849 It many `many kingdom by sea, That ``a maiden there know Lee; this with be ```a ``and `she child, more `I `Annabel Lee— With `of Coveted ````the reason `ago, ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel So ``that highborn away me, ````````a sepulchre ````by sea. angels, not half `reason men `````by sea) `````````the `came ```of Chilling killing `But ```love it ``````was stronger far ```````````the were older `far wiser neither ````````````the ``in demons down dissever soul ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon never beams, ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And `all ``````````````````````the ```I `down ````````by ```````````````````````the life ```````and ````````````````````````the ``````her ``````````by sounding `sea.
+insertAfter and many
+remove more
+insertHead `sea.
+size 111
+printList
+  By Edgar 1849 It many and `many kingdom by sea, That ``a maiden there know Lee; this with be ```a ``and `she child, `I `Annabel Lee— With `of Coveted ````the reason `ago, ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel So ``that highborn away me, ````````a sepulchre ````by sea. angels, not half `reason men `````by sea) `````````the `came ```of Chilling killing `But ```love it ``````was stronger far ```````````the were older `far wiser neither ````````````the ``in demons down dissever soul ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon never beams, ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And `all ``````````````````````the ```I `down ````````by ```````````````````````the life ```````and ````````````````````````the ``````her ``````````by sounding `sea.
+insertAfter side ```````````````````````the
+insertAfter I be
+insertAfter ```Of beams,
+insertAfter `with child,
+insertAfter `was I
+insertAfter ``Lee; `her
+insertAfter love— `with
+insertAfter a `many
+insertHead killing
+insertAfter In a
+insertAfter ```Lee; ```Of
+insertAfter `````````````````````````the ``````````by
+size 121
+printList
+  By Edgar 1849 It many and `many a In kingdom by sea, That ``a maiden there know Lee; this with be I `was ```a ``and `she child, `with love— `I `Annabel Lee— With `of Coveted ````the reason `ago, ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel So ``that highborn away me, ````````a sepulchre ````by sea. angels, not half `reason men `````by sea) `````````the `came ```of Chilling killing `But ```love it ``````was stronger far ```````````the were older `far wiser neither ````````````the ``in demons down dissever soul ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon never beams, ```Of ```Lee; ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And `all ``````````````````````the ```I `down ````````by ```````````````````````the side life ```````and ````````````````````````the ``````her ``````````by `````````````````````````the sounding `sea.
+insertAfter above ``in
+insertAfter `love `with
+insertAfter `Of older
+remove ``````````by
+insertAfter me. be
+insertAfter ```and `I
+insertHead `many
+insertAfter ``````my ```````and
+remove kingdom
+insertAfter was It
+insertAfter of know
+insertAfter `from soul
+remove ``````````````````````the
+insertAfter under down
+remove ```and
+insertAfter my `I
+insertAfter ``In `ago,
+insertAfter all `reason
+insertAfter than `love
+remove far
+insertAfter `In child,
+size 131
+printList
+  By Edgar 1849 It was many and `many a In by sea, That ``a maiden there know of Lee; this with be me. I `was ```a ``and `she child, `In `with `love than love— `I my `Annabel Lee— With `of Coveted ````the reason `ago, ``In ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel So ``that highborn away me, ````````a sepulchre ````by sea. angels, not half `reason all men `````by sea) `````````the `came ```of Chilling killing `But ```love it ``````was stronger ```````````the were older `Of `far wiser neither ````````````the ``in above demons down under dissever soul `from ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon never beams, ```Of ```Lee; ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And `all ```I `down ````````by ```````````````````````the side life ```````and ``````my ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter know, men
+insertAfter `````````by ``````my
+insertAfter `````and half
+insertAfter may there
+insertAfter cloud ```of
+insertAfter so, `````And
+insertAfter ``many `Of
+insertAfter `And Coveted
+remove never
+insertAfter `my killing
+insertAfter came highborn
+insertAfter that, reason
+remove ``many
+insertAfter wingèd With
+size 141
+printList
+  By Edgar 1849 It was many and `many a In by sea, That ``a maiden there may know of Lee; this with be me. I `was ```a ``and `she child, `In `with `love than love— `I my `Annabel Lee— With wingèd `of Coveted `And ````the reason that, `ago, ``In ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel So ``that highborn came away me, ````````a sepulchre ````by sea. angels, not half `````and `reason all men know, `````by sea) `````````the `came ```of cloud Chilling killing `my `But ```love it ``````was stronger ```````````the were older `Of `far wiser neither ````````````the ``in above demons down under dissever soul `from ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon beams, ```Of ```Lee; ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And so, `all ```I `down ````````by ```````````````````````the side life ```````and ``````my `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter ````her half
+insertAfter Lee. `my
+insertAfter loved be
+insertAfter lie ```I
+insertAfter `Lee; ``Annabel
+insertAfter Heaven, half
+insertAfter ``````````````the under
+insertAfter `````her ``````my
+insertAfter `That sea)
+insertAfter `kingdom `In
+size 151
+printList
+  By Edgar 1849 It was many and `many a In by sea, That ``a maiden there may know of Lee; this with be loved me. I `was ```a ``and `she child, `In `kingdom `with `love than love— `I my `Annabel Lee— With wingèd `of Coveted `And ````the reason that, `ago, ``In ```this ``kingdom `````the ``sea, blew ```````a cloud, My beautiful ``Annabel `Lee; So ``that highborn came away me, ````````a sepulchre ````by sea. angels, not half Heaven, ````her `````and `reason all men know, `````by sea) `That `````````the `came ```of cloud Chilling killing `my Lee. `But ```love it ``````was stronger ```````````the were older `Of `far wiser neither ````````````the ``in above demons down under ``````````````the dissever soul `from ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon beams, ```Of ```Lee; ```````````````````the stars eyes ````Of `````````````````````the ````Lee; `````And so, `all ```I lie `down ````````by ```````````````````````the side life ```````and ``````my `````her `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter ````was `And
+insertAfter `than stronger
+insertAfter ``than older
+insertAfter cloud, love—
+insertAfter ```by ``kingdom
+insertAfter ````and Coveted
+insertAfter bright stars
+insertAfter Poe Edgar
+insertAfter Can ``````````````the
+insertAfter we— ``than
+insertAfter you there
+size 161
+printList
+  By Edgar Poe 1849 It was many and `many a In by sea, That ``a maiden there you may know of Lee; this with be loved me. I `was ```a ``and `she child, `In `kingdom `with `love than love— `I my `Annabel Lee— With wingèd `of Coveted ````and `And ````was ````the reason that, `ago, ``In ```this ``kingdom ```by `````the ``sea, blew ```````a cloud, My beautiful ``Annabel `Lee; So ``that highborn came away me, ````````a sepulchre ````by sea. angels, not half Heaven, ````her `````and `reason all men know, `````by sea) `That `````````the `came ```of cloud Chilling killing `my Lee. `But ```love it ``````was stronger `than ```````````the were older ``than we— `Of `far wiser neither ````````````the ``in above demons down under ``````````````the Can dissever soul `from ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; `````````````````the moon beams, ```Of ```Lee; ```````````````````the stars bright eyes ````Of `````````````````````the ````Lee; `````And so, `all ```I lie `down ````````by ```````````````````````the side life ```````and ``````my `````her `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter out blew
+insertAfter ```Annabel `my
+remove maiden
+insertAfter lived there
+insertAfter `sepulchre `````her
+remove ````````````the
+insertAfter ```And wiser
+insertAfter `wind `````````the
+insertAfter `we— wiser
+insertAfter `````Of side
+insertAfter never moon
+insertAfter `By know
+insertAfter For ``Lee;
+insertAfter Allen Edgar
+insertAfter sounding child,
+size 171
+printList
+  By Edgar Allen Poe 1849 It was many and `many a In by sea, That ``a there lived you may know `By of Lee; this with be loved me. I `was ```a ``and `she child, `In `kingdom `with `love than love— `I my `Annabel Lee— With wingèd `of Coveted ````and `And ````was ````the reason that, `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that highborn came away me, ````````a sepulchre ````by sea. angels, not half Heaven, ````her `````and `reason all men know, `````by sea) `That `````````the `wind `came ```of cloud Chilling killing `my ```Annabel Lee. `But ```love it ``````was stronger `than ```````````the were older ``than we— `Of `far wiser `we— ```And neither ``in above demons down under ``````````````the Can dissever soul `from ```````````````the ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, ```Of ```Lee; ```````````````````the stars bright eyes ````Of `````````````````````the ````Lee; `````And so, `all ```I lie `down ````````by ```````````````````````the side `````Of life ```````and ``````my `````her `sepulchre `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter ``````by cloud
+insertAfter ``````````````````````the `all
+insertAfter ago, a
+insertAfter whom lived
+insertAfter `her ``that
+remove ````````a
+insertAfter ``the `kingdom
+insertAfter in me,
+remove `from
+insertAfter more `love
+insertAfter `````````````the above
+insertAfter ```and `I
+insertAfter ````my `````Of
+insertAfter `loved ``the
+remove ````````````````the
+insertAfter kingdom In
+size 181
+printList
+  By Edgar Allen Poe 1849 It was many and `many a ago, In kingdom by sea, That ``a there lived whom you may know `By of Lee; this with be loved me. I `was ```a ``and `she child, `In `kingdom ``the `loved `with `love more than love— `I ```and my `Annabel Lee— With wingèd `of Coveted ````and `And ````was ````the reason that, `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came away me, in sepulchre ````by sea. angels, not half Heaven, ````her `````and `reason all men know, `````by sea) `That `````````the `wind `came ```of cloud ``````by Chilling killing `my ```Annabel Lee. `But ```love it ``````was stronger `than ```````````the were older ``than we— `Of `far wiser `we— ```And neither ``in above `````````````the demons down under ``````````````the Can dissever soul ```````````````the ``Of `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, ```Of ```Lee; ```````````````````the stars bright eyes ````Of `````````````````````the ````Lee; `````And so, `all ``````````````````````the ```I lie `down ````````by ```````````````````````the side `````Of ````my life ```````and ``````my `````her `sepulchre `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter without beams,
+insertTail `we—
+insertAfter `from soul
+insertAfter ``````Annabel `````````````````````the
+insertAfter `soul ```````````````the
+remove not
+insertAfter me without
+insertAfter ``this `And
+insertAfter lie cloud
+insertAfter year a
+insertHead and
+insertAfter ````this sepulchre
+insertAfter ```````by stronger
+insertAfter ````by me.
+insertAfter her Coveted
+insertAfter seraphs wingèd
+size 191
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In kingdom by sea, That ``a there lived whom you may know `By of Lee; this with be loved me. I `was ```a ``and `she child, `In `kingdom ``the `loved `with `love more than love— `I ```and my `Annabel Lee— With wingèd seraphs `of Coveted her ````and `And ``this ````was ````the reason that, `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came away me, in sepulchre ````this ````by sea. angels, half Heaven, ````her `````and `reason all men know, `````by sea) `That `````````the `wind `came ```of cloud ``````by Chilling killing `my ```Annabel Lee. `But ```love it ``````was stronger ```````by `than ```````````the were older ``than we— `Of `far wiser `we— ```And neither ``in above `````````````the demons down under ``````````````the Can dissever soul `from ```````````````the `soul ``Of `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me ```Of ```Lee; ```````````````````the stars bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the ```I lie `down ````````by ```````````````````````the side `````Of ````my life ```````and ``````my `````her `sepulchre `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter other with
+insertAfter ````kingdom know,
+insertAfter dreams me
+insertAfter `and other
+insertAfter lie `````by
+insertAfter the by
+insertAfter maiden ``a
+insertAfter night, ``````by
+remove `sea.
+insertAfter ````````````````````the stars
+insertAfter ````````````````the ``Of
+insertAfter darling— `````Of
+remove that,
+insertTail `sea.
+remove `And
+insertAfter happy half
+insertAfter ```than wiser
+size 201
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In kingdom by the sea, That ``a maiden there lived whom you may know `By of Lee; this with other `and be loved me. I `was ```a ``and `she child, `In `kingdom ``the `loved `with `love more than love— `I ```and my `Annabel Lee— With wingèd seraphs `of Coveted her ````and ``this ````was ````the reason `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came away me, in sepulchre ````this ````by sea. angels, half happy Heaven, ````her `````and `reason all men know, ````kingdom `````by sea) `That `````````the `wind `came ```of cloud ``````by night, Chilling killing `my ```Annabel Lee. `But ```love it ``````was stronger ```````by `than ```````````the were older ``than we— `Of `far wiser ```than `we— ```And neither ``in above `````````````the demons down under ``````````````the Can dissever soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ```Lee; ```````````````````the stars ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the ```I lie `down ````````by ```````````````````````the side `````Of darling— ````my life ```````and ``````my `````her `sepulchre `````````by ````````````````````````the ``````her `````````````````````````the sounding `sea.
+insertAfter `there `sepulchre
+insertAfter `the `By
+insertAfter bore came
+insertAfter night-tide, ``````````````````````the
+insertAfter And Lee;
+insertAfter our `But
+remove moon
+insertAfter tomb ``````her
+insertAfter Annabel of
+insertAfter love other
+insertAfter sea, night-tide,
+insertAfter To me,
+insertAfter far ```````by
+remove `````````````````````````the
+insertAfter moon `````````````````the
+remove ``````````````the
+insertAfter who ```````````the
+remove ````her
+insertTail than
+insertAfter `lived this
+size 211
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved me. I `was ```a ``and `she child, `In `kingdom ``the `loved `with `love more than love— `I ```and my `Annabel Lee— With wingèd seraphs `of Coveted her ````and ``this ````was ````the reason `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came bore away me, To in sepulchre ````this ````by sea. angels, half happy Heaven, `````and `reason all men know, ````kingdom `````by sea) `That `````````the `wind `came ```of cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the who were older ``than we— `Of `far wiser ```than `we— ```And neither ``in above `````````````the demons down under Can dissever soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ```Lee; ```````````````````the stars ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of darling— ````my life ```````and ``````my `````her `sepulchre `there `````````by ````````````````````````the ``````her tomb sounding `sea.
+insertAfter me— `````and
+insertAfter those ```````````the
+remove ``in
+insertAfter `by loved
+insertAfter `this `In
+insertAfter ```the With
+insertAfter that, reason
+insertAfter ``````the ````by
+insertHead me,
+insertAfter shut To
+insertAfter ```my `````Of
+insertAfter `````was me—
+insertAfter long that,
+size 221
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved `by me. I `was ```a ``and `she child, `In `this `kingdom ``the `loved `with `love more than love— `I ```and my `Annabel Lee— With ```the wingèd seraphs `of Coveted her ````and ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came bore away me, To shut in sepulchre ````this ````by ``````the sea. angels, half happy Heaven, `````and me— `````was `reason all men know, ````kingdom `````by sea) `That `````````the `wind `came ```of cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the those who were older ``than we— `Of `far wiser ```than `we— ```And neither above `````````````the demons down under Can dissever soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ```Lee; ```````````````````the stars ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my life ```````and ``````my `````her `sepulchre `there `````````by ````````````````````````the ``````her tomb sounding `sea.
+insertAfter that `love
+insertAfter ```kingdom ````this
+insertAfter bride, ``````my
+remove Edgar
+insertAfter ``````````````````the ```Of
+insertTail far
+insertAfter ``my dissever
+insertAfter (as `reason
+insertAfter from away
+insertAfter —that me—
+insertAfter `And ````and
+insertAfter ``````````by tomb
+remove `wind
+insertAfter ``and ago,
+insertAfter Heaven `of
+insertAfter Went Heaven,
+size 231
+printList
+  By Allen Poe 1849 It was many and `many a year ago, In kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved `by me. I `was ```a ``and `she child, `In `this `kingdom ``the `loved `with `love that more than love— `I ```and my `Annabel Lee— With ```the wingèd seraphs `of Heaven Coveted her ````and `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came bore away from me, To shut in sepulchre ````this ```kingdom ````by ``````the sea. angels, half happy Heaven, Went `````and me— —that `````was `reason (as all men know, ````kingdom `````by sea) `That `````````the `came ```of cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the those who were older ``than we— `Of `far wiser ```than `we— ```And neither above `````````````the demons down under Can dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the ```Lee; ```````````````````the stars ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my life ```````and ``````my bride, `````her `sepulchre `there `````````by ````````````````````````the ``````her tomb ``````````by sounding `sea.
+insertAfter `````Annabel ``````````````````the
+insertAfter ``was `she
+insertAfter `that With
+insertHead long
+insertAfter `sea, ``the
+insertAfter `a In
+insertAfter The sea.
+insertHead ``and
+insertAfter `````````````````````````the ``````````by
+insertAfter ``````````the ```of
+insertAfter but stars
+remove bright
+insertAfter `darling— ````my
+insertAfter so half
+size 241
+printList
+  By Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved `by me. I `was ```a ``and `she ``was child, `In `this `kingdom ``the `sea, `loved `with `love that more than love— `I ```and my `Annabel Lee— With `that ```the wingèd seraphs `of Heaven Coveted her ````and `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came bore away from me, To shut in sepulchre ````this ```kingdom ````by ``````the sea. The angels, half so happy Heaven, Went `````and me— —that `````was `reason (as all men know, ````kingdom `````by sea) `That `````````the `came ```of ``````````the cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the those who were older ``than we— `Of `far wiser ```than `we— ```And neither above `````````````the demons down under Can dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the `````Annabel ```Lee; ```````````````````the stars but ````````````````````the eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````her `sepulchre `there `````````by ````````````````````````the ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter ```````the `````was
+remove ```````a
+size 241
+printList
+  By Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved `by me. I `was ```a ``and `she ``was child, `In `this `kingdom ``the `sea, `loved `with `love that more than love— `I ```and my `Annabel Lee— With `that ```the wingèd seraphs `of Heaven Coveted her ````and `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out cloud, My beautiful ``Annabel `Lee; So ``that `her highborn came bore away from me, To shut in sepulchre ````this ```kingdom ````by ``````the sea. The angels, half so happy Heaven, Went `````and me— —that `````was ```````the `reason (as all men know, ````kingdom `````by sea) `That `````````the `came ```of ``````````the cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the those who were older ``than we— `Of `far wiser ```than `we— ```And neither above `````````````the demons down under Can dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the `````Annabel ```Lee; ```````````````````the stars but ````````````````````the eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````her `sepulchre `there `````````by ````````````````````````the ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter kinsmen highborn
+insertAfter angels neither
+insertAfter we `sea,
+insertAfter Of ```````````the
+insertAfter `in happy
+insertAfter ``of out
+insertTail in
+insertAfter not angels,
+insertAfter ````In know,
+remove `far
+insertAfter sea under
+insertAfter kinsmen child
+insertAfter `far `Of
+insertAfter `````this ````In
+remove above
+insertAfter ``````In ````````````````````````the
+size 251
+printList
+  By Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the of Annabel Lee; And this `lived with other love `and be loved `by me. I `was ```a ``and `she ``was child, `In `this `kingdom ``the `sea, we `loved `with `love that more than love— `I ```and my `Annabel Lee— With `that ```the wingèd seraphs `of Heaven Coveted her ````and `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ``of cloud, My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came bore away from me, To shut in sepulchre ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went `````and me— —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by sea) `That `````````the `came ```of ``````````the cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the Of those who were older ``than we— `Of `far wiser ```than `we— ```And neither angels `````````````the demons down under sea Can dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the `````Annabel ```Lee; ```````````````````the stars but ````````````````````the eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````her `sepulchre `there `````````by ````````````````````````the ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter `maiden this
+insertAfter name `the
+insertAfter ```In sepulchre
+insertAfter ``And came
+insertAfter ever Can
+remove ```a
+insertAfter ````a ``was
+insertAfter ``by `kingdom
+insertAfter `wind `````````the
+insertAfter eyes it
+insertAfter ````````a in
+insertAfter `out `came
+insertAfter Edgar By
+insertTail `Annabel
+size 261
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden `lived with other love `and be loved `by me. I `was ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, we `loved `with `love that more than love— `I ```and my `Annabel Lee— With `that ```the wingèd seraphs `of Heaven Coveted her ````and `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ``of cloud, My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore away from me, To shut in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went `````and me— —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the Of those who were older ``than we— `Of `far wiser ```than `we— ```And neither angels `````````````the demons down under sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the `````Annabel ```Lee; ```````````````````the stars but ````````````````````the eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````her `sepulchre `there `````````by ````````````````````````the ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter `````In bride,
+insertAfter ````And ```Lee;
+insertAfter bright ````````````````````the
+insertAfter Can `````by
+insertAfter ``her bore
+insertAfter ```was that
+insertAfter `Heaven angels
+remove `lived
+insertAfter ```````a ``of
+insertAfter Yes! me—
+insertAfter `me. ````and
+insertAfter ``````and Chilling
+insertAfter ``love With
+size 271
+printList
+  By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden with other love `and be loved `by me. I `was ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, we `loved `with `love that ```was more than love— `I ```and my `Annabel Lee— With ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, blew out ``of ```````a cloud, My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, To shut in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the Of those who were older ``than we— `Of `far wiser ```than `we— ```And neither angels `Heaven `````````````the demons down under sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without me dreams ```Of ``````````````````the `````Annabel ```Lee; ````And ```````````````````the stars but ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter chilling cloud,
+insertAfter ```her shut
+insertHead ﻿Annabel
+remove ﻿Annabel
+insertAfter bringing without
+insertAfter no with
+remove know
+insertAfter A ``sea,
+insertAfter ````````the `````by
+insertAfter demons `````by
+insertAfter ````her Went
+insertHead bore
+insertAfter ``I but
+insertHead Lee
+insertAfter ``beautiful ``````````````````the
+insertAfter But `sea,
+size 281
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may `By `the name of Annabel Lee; And this `maiden with no other love `and be loved `by me. I `was ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, But we `loved `with `love that ```was more than love— `I ```and my `Annabel Lee— With ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, To shut ```her in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the Of those who were older ``than we— `Of `far wiser ```than `we— ```And neither angels `Heaven `````````````the demons down under sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars but ``I ````````````````````the bright eyes ````Of `````````````````````the ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter ``many `Of
+insertAfter above `Heaven
+insertAfter ``````a With
+insertAfter to other
+insertAfter wind A
+insertAfter ```beautiful `````````````````````the
+insertAfter she `maiden
+insertAfter ````````````the neither
+insertAfter ```a `was
+remove ``the
+insertAfter ````love ```````````the
+insertAfter ``````````````the under
+size 291
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may `By `the name of Annabel Lee; And this `maiden she with no other to love `and be loved `by me. I `was ```a ``and `she ``was ````a child, `In `this `kingdom ``by `sea, But we `loved `with `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, To shut ```her in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels `Heaven above `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars but ``I ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter sea— ````````````````````````the
+remove To
+size 291
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may `By `the name of Annabel Lee; And this `maiden she with no other to love `and be loved `by me. I `was ```a ``and `she ``was ````a child, `In `this `kingdom ``by `sea, But we `loved `with `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, shut ```her in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels `Heaven above `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars but ``I ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the sea— ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter ``the ``by
+insertAfter feel ``I
+insertHead ﻿Annabel
+remove ﻿Annabel
+insertAfter up ```her
+insertAfter `````a `with
+remove Lee
+insertHead ﻿Annabel
+remove ﻿Annabel
+insertAfter ``in angels
+insertAfter child ```a
+insertHead ﻿Annabel
+insertAfter Lee ﻿Annabel
+insertAfter know may
+insertAfter `lived she
+insertAfter `never stars
+remove ﻿Annabel
+insertAfter Than other
+remove night-tide,
+insertAfter rise, `never
+size 301
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden she `lived with no other Than to love `and be loved `by me. I `was ```a child ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, But we `loved `with `````a `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, shut ```her up in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels ``in `Heaven above `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars `never rise, but ``I feel ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the sea— ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter `````my `darling—
+remove `loved
+size 301
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden she `lived with no other Than to love `and be loved `by me. I `was ```a child ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, But we `with `````a `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, shut ```her up in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels ``in `Heaven above `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars `never rise, but ``I feel ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— `````my life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the sea— ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter night-tide, ``````````````````````the
+remove `of
+size 301
+printList
+  Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden she `lived with no other Than to love `and be loved `by me. I `was ```a child ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, But we `with `````a `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, shut ```her up in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels ``in `Heaven above `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars `never rise, but ``I feel ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— `````my life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the sea— ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.
+insertAfter `loved we
+insertAfter To me,
+remove ``was
+insertAfter thought other
+insertAfter `of seraphs
+remove It
+insertAfter Nor above
+insertTail soul
+insertAfter It 1849
+remove ``my
+insertHead `out
+insertAfter envying Went
+insertAfter ``was `she
+insertAfter ``my dissever
+insertHead ﻿Annabel
+remove ﻿Annabel
+insertHead ﻿Annabel
+printList   
+  ﻿Annabel Lee By Edgar Allen Poe 1849 It was many and `many a year ago, In `a kingdom by the sea, That ``a maiden there lived whom you may know `By `the name of Annabel Lee; And this `maiden she `lived with no other thought Than to love `and be loved `by me. I `was ```a child ``and `she ``was ````a child, `In `this `kingdom ``by ``the `sea, But we `loved `with `````a `love that ```was more than love— `I ```and my `Annabel Lee— With ``````a ``love `that ```the wingèd seraphs `of Heaven Coveted her ````and `me. `And ``this ````was ````the reason that, long `ago, ``In ```this ``kingdom ```by `````the ``sea, A wind blew out ``of ```````a cloud, chilling My beautiful ``Annabel `Lee; So ``that `her highborn kinsmen came ``And bore ``her away from me, To shut ```her up in ````````a sepulchre ```In ````this ```kingdom ````by ``````the sea. The angels, not half so happy `in Heaven, Went envying ````her `````and me— Yes! —that `````was ```````the `reason (as all men know, ````In `````this ````kingdom `````by ````````the sea) `That `````````the `wind `came `out ```of ``````````the cloud ``````by night, Chilling ``````and killing `my ```Annabel Lee. `But our ```love it ``````was stronger ```````by far `than ```````````the ````love Of those who were older ``than we— `Of ``many `far wiser ```than `we— ```And neither ````````````the angels ``in `Heaven above Nor `````````````the demons down under ``````````````the sea Can ever dissever ``my soul `from ```````````````the `soul ``Of ````````````````the `beautiful ````Annabel ``Lee; For `````````````````the moon never beams, without bringing me dreams ```Of ``````````````````the ``beautiful `````Annabel ```Lee; ````And ```````````````````the stars `never rise, but ``I feel ````````````````````the bright eyes ````Of `````````````````````the ```beautiful ``````Annabel ````Lee; `````And so, `all ``````````````````````the night-tide, ```I lie `down ````````by ```````````````````````the side `````Of ```my darling— ````my `darling— `````my life ```````and ``````my bride, `````In `````her `sepulchre `there `````````by ````````````````````````the sea— ``````In ``````her tomb ``````````by `````````````````````````the sounding `sea.

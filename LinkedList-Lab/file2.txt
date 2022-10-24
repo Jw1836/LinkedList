@@ -1,0 +1,60 @@
+STRING
+size
+printList
+at 0
+at 1
+insertTail lazy
+size
+printList
+insertHead lazy
+size
+printList
+insertAfter dog. lazyy
+size
+printList
+insertAfter dog. lazy
+size
+printList
+insertTail dog.
+size
+printList
+insertHead fox
+size
+printList
+insertHead brown
+size
+printList
+insertHead quick
+size
+printList
+insertHead The
+size
+printList
+insertAfter quick brown
+size
+printList
+insertTail fox
+size
+printList
+insertAfter the fox
+size
+printList
+insertAfter jumps fox
+size
+printList
+insertAfter over jumps
+size
+printList
+size
+printList
+at 0
+at 1
+at 2
+at 3
+at 4
+at 5
+at 6
+at 7
+at 8
+at 9
+at -1

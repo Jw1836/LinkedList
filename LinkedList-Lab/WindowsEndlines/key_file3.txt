@@ -1,0 +1,49 @@
+insertHead 10
+insertHead 9
+insertHead 8
+insertHead 7
+insertHead 6
+insertHead 5
+insertHead 4
+insertHead 3
+insertHead 2
+insertHead 1
+insertHead 0
+insertAfter -1 1
+insertAfter 9999 0
+insertAfter 12 10
+size 14
+printList
+  0 9999 1 -1 2 3 4 5 6 7 8 9 10 12
+remove -1
+size  13
+printList
+  0 9999 1 2 3 4 5 6 7 8 9 10 12
+remove -1
+size  13
+printList
+  0 9999 1 2 3 4 5 6 7 8 9 10 12
+remove 15
+size 13
+printList
+  0 9999 1 2 3 4 5 6 7 8 9 10 12
+remove 9999
+size  12
+printList
+  0 1 2 3 4 5 6 7 8 9 10 12
+remove 10
+size 11
+printList
+  0 1 2 3 4 5 6 7 8 9 12
+remove 0
+size 10
+printList
+  1 2 3 4 5 6 7 8 9 12
+clear
+size 0
+printList
+  
+remove 1
+size 0
+printList
+  

@@ -1,0 +1,15 @@
+INT
+insertHead 1
+insertTail 2
+insertAfter 3 2
+size
+printList
+insertHead 0
+insertTail 4
+insertAfter 0 50
+insertAfter 50 51
+size
+printList
+size
+insertHead 1000
+size

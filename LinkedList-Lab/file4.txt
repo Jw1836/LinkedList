@@ -1,0 +1,47 @@
+STRING
+insertTail Combing
+remove Combing
+insertTail Combing
+insertTail Coming
+insertTail front
+size
+printList
+remove front
+size
+printList
+insertTail back
+insertTail to
+insertTail where
+remove where
+size
+printList
+insertTail where
+size
+printList
+insertTail you
+insertTail started
+insertTail is
+insertTail not
+insertTail the
+insertTail same
+insertTail as
+insertTail never
+insertTail leavening.
+insertTail leaving.
+insertTail -Terry
+insertTail Pratchett
+size
+printList
+remove Combing
+remove leavening.
+remove computerviruses
+size
+printList
+clear
+size
+printList
+clear
+remove "string"
+remove -Terry
+size
+printList
